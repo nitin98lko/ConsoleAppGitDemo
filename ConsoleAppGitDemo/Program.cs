@@ -6,7 +6,8 @@ namespace ConsoleAppGitDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello BranchA!");
+            Console.WriteLine("Hello Branch A!");
+            Console.WriteLine("Hello main!");
         }
     }
 }
